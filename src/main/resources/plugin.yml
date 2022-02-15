@@ -1,0 +1,8 @@
+name: PiPe
+version: '${version}'
+main: com.foc.pipe.Pipe
+api-version: 1.18
+prefix: PiPe
+authors: [ Kyoka ]
+description: A plugin that enables you to create Python plugins for Spigot
+website: https://github.com/Mythical-Forest-Collective/PiPe
